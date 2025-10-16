@@ -4,8 +4,8 @@
 }
 
 button{
-    width: 100px;
-    height: 100px;
+    width: 70px;
+    height: 70px;
     border-radius: 50%;
     border: none;
     margin: 0.6rem;
@@ -38,7 +38,7 @@ input{
     background-color: rgb(255, 204, 0);
     color: black;
     font-weight: bold;
-    font-size: 3.9rem;
+    font-size: 3.1rem;
     cursor: pointer;
 
 }
@@ -52,7 +52,7 @@ input{
     background-color: rgb(30, 27, 27);
     color: white;
     font-weight: bold;
-    font-size: 3.9rem;
+    font-size: 3.1rem;
     cursor: pointer;
 }
 
@@ -65,7 +65,7 @@ input{
     background-color: rgba(113, 113, 109, 0.6);
     color: rgb(214, 195, 195);
     font-weight: bold;
-    font-size: 3.9rem;
+    font-size: 3.1rem;
     cursor: pointer;
 }
 
